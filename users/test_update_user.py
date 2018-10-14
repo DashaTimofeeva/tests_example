@@ -70,7 +70,7 @@ def test_update_user_job():
     allure.attach(data.decode('utf-8'))
 
 
-@pytest.mark.future_task
+@pytest.mark.xfail
 @pytest.mark.parametrize("data, error, method", params)
 def test_update_user_with_incorrect_data(data, error, method):
     if method == 'put':
