@@ -1,1 +1,1 @@
-# repository for my tests examples
+# repository for my API tests examples
