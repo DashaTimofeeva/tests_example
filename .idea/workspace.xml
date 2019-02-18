@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efc6e7b6-661a-4a2c-8863-8e7cca8c9550" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tests_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tests_example.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/test_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/test_create_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/test_update_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/test_update_user.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +21,8 @@
       <file leaf-file-name="test_create_user.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/users/test_create_user.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="291">
+              <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="63" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -33,53 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7a62612c-c539-4f02-9f96-ec5d2c4835ad-result.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/allure/report/7a62612c-c539-4f02-9f96-ec5d2c4835ad-result.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="720" selection-start-column="719" selection-end-column="720" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lastfailed" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.cache/v/cache/lastfailed">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="3" column="1327" selection-start-line="3" selection-start-column="1327" selection-end-line="3" selection-end-column="1327" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_update_user.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/test_update_user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -114,16 +72,14 @@
         <option value="$PROJECT_DIR$/users/test_get_users.py" />
         <option value="$PROJECT_DIR$/users/test_update_user.py" />
         <option value="$PROJECT_DIR$/users/m" />
-        <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/users/test_create_user.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="775" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -137,11 +93,6 @@
             <path>
               <item name="tests_example" type="b2602c69:ProjectViewProjectNode" />
               <item name="tests_example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tests_example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tests_example" type="462c0819:PsiDirectoryNode" />
-              <item name="allure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tests_example" type="b2602c69:ProjectViewProjectNode" />
@@ -168,6 +119,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -189,6 +141,22 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="tests" factoryName="py.test">
+      <module name="tests_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/python/untitled/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -200,33 +168,50 @@
       <option name="presentableId" value="Default" />
       <updated>1528017648782</updated>
     </task>
+    <task id="LOCAL-00001" summary="+ added conftest.py&#10;++ created fixture&#10;+ added mark.xfail&#10;+ added allure title, steps, description">
+      <created>1539561080000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539561080000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unnamed - 2018.10.15 at 12h 26m 29s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34249473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38548273" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.32969698" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="9" sideWeight="0.49964765" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.4989429" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.56095845" weight="0.40848485" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.56095845" weight="0.25454545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49953228" weight="0.32890856" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+ added conftest.py&#10;++ created fixture&#10;+ added mark.xfail&#10;+ added allure title, steps, description" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ added conftest.py&#10;++ created fixture&#10;+ added mark.xfail&#10;+ added allure title, steps, description" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,6 +219,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/allure/report/dc597e34-046d-43a0-bff4-b5b497b3db80-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/report/0d6aedb7-53ba-41ec-ab24-e1e52f089f31-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/report/0daa43a2-a62c-4b86-8284-1219197821ee-attachment.attach" />
@@ -264,9 +256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -333,9 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -352,32 +338,11 @@
     <entry file="file://$PROJECT_DIR$/allure/users_test_report.attach/d5e4cb78-9e97-4c53-b853-8912cdaba5f6-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/users_test_report.attach/0b85e90b-6f59-49bf-857e-51af2cd09aaf-result.json" />
     <entry file="file://$PROJECT_DIR$/allure/report/55042621-87bb-4b93-88d6-d8dcd209473c-attachment.attach" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/allure/report/dc597e34-046d-43a0-bff4-b5b497b3db80-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/report/0d6aedb7-53ba-41ec-ab24-e1e52f089f31-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/report/0daa43a2-a62c-4b86-8284-1219197821ee-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/report/9daace70-5b1d-4819-bda3-c452753c1f80-attachment.attach" />
     <entry file="file://$PROJECT_DIR$/allure/report/ff780990-61fb-41cb-a588-89795015f755-attachment.attach" />
-    <entry file="file://$PROJECT_DIR$/users/test_delete_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/test_get_users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -385,42 +350,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/test_update_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/m" />
     <entry file="file://$PROJECT_DIR$/.cache/v/cache/lastfailed">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="60">
           <caret line="3" column="1327" selection-start-line="3" selection-start-column="1327" selection-end-line="3" selection-end-column="1327" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allure/report/0d75ae8e-ef36-43c4-8f52-d409da6e9e5f-result.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allure/report/5a65f0ad-c4d4-4ba6-bec3-3296e635c22c-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/allure/report/0d75ae8e-ef36-43c4-8f52-d409da6e9e5f-result.json" />
     <entry file="file://$PROJECT_DIR$/allure/report/7a62612c-c539-4f02-9f96-ec5d2c4835ad-result.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -428,10 +366,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/users/test_update_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/test_delete_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/test_get_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/users/test_create_user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="291">
+          <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="63" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>

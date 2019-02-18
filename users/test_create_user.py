@@ -38,6 +38,7 @@ def test_create_user_with_correct_data(param_json, url):
 
 @title('Валидация.')
 @description('Проверяем валидацию в форме создания пользователя')
+@pytest.mark.long_tests
 @pytest.mark.xfail
 @pytest.mark.parametrize('key, value, error', wrong_parameters)
 def test_create_user_with_incorrect_data(key, value, error, param_json, url):

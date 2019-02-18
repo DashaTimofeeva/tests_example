@@ -15,3 +15,4 @@ def param_json():
 @pytest.fixture(scope="module")
 def url():
     return 'https://reqres.in/api/users'
+
